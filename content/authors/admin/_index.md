@@ -2,12 +2,12 @@
 title: Mohit Bhardwaj
 role: PhD Candidate
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include multi-messanger astronomy, RF electronics and
+  communication and applied statistics.er.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Radio Astronomy
+  - Astrophysical Transients
+  - RF Instrumentation
 social:
   - icon: envelope
     icon_pack: fas
