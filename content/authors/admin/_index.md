@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: work.mohitbhardwaj@gmail.com
+    link: http://www.physics.mcgill.ca/people/grads-a.html
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=T7u0EccAAAAJ&hl=en
