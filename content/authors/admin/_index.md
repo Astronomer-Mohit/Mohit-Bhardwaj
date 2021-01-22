@@ -1,7 +1,7 @@
 ---
 title: Mohit Bhardwaj
 role: PhD Candidate
-avatar_filename: profile-picture.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -44,6 +44,4 @@ highlight_name: false
 ---
 Mohit Bhardwaj is a PhD candidate at the Department of Physics, McGill University. His research interests include multi-messenger astronomy, RF electronics and communication, and applied statistics. He is a member of the [Canadian Hydrogen Intensity Mapping Experiment (CHIME)](https://chime-experiment.ca/en) where he works on newly discovered astrophysical mystery, [Fast Radio Bursts (FRBs)](https://en.wikipedia.org/wiki/Fast_radio_burst).  Within the CHIME/FRB collaboration, he is leading the multi-wavelength follow-up and host association of nearby FRBs. Please read his article below on why local Universe FRBs are awesome!
 
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/[](https://github.com/Astronomer-Mohit/Mohit-Bhardwaj/blob/master/static/media/Bhardwaj_Mohit_CV.pdf "Bhardwaj_Mohit_CV.pdf")Bhardwaj_Mohit_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/17QTPOupkoY1KcN92X3-XgudZgnk-yVOe/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
