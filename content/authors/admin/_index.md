@@ -11,34 +11,31 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: work.mohitbhardwaj@gmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=T7u0EccAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Astronomer-Mohit
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mohit-bhardwaj-747154a0/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: McGill University
+    url: https://www.physics.mcgill.ca/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Physics
+      institution: McGill University
+      year: ""
+    - course: M.Sc (Hons.) Physics
+      institution: " Birla Institute of Technology and Science, Pilani"
+      year: 2017
+    - course: B.E in Electrical and Electronics Engineering
+      institution: " Birla Institute of Technology and Science, Pilani"
+      year: 2017
+email: work.mohitbhardwaj@gmail.com
 superuser: true
 highlight_name: false
 ---
