@@ -20,6 +20,7 @@ location: 237th Meeting of the American Astronomical Society (virtual)
 date: 2021-01-12T21:20:02.741Z
 date_end: 2021-01-12T21:30:00.000Z
 all_day: false
+links: []
 event: "Oral Presentation: 237th AAS Meeting"
 event_url: https://www.abstractsonline.com/pp8/#!/9243/presentation/1717
 authors:
@@ -31,5 +32,5 @@ publishDate: 2021-01-22T09:16:02.806Z
 categories:
   - FRBs
 image:
-  filename: aas_talk.png
+  filename: featured.png
 ---
