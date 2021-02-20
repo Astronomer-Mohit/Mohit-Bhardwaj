@@ -2,7 +2,7 @@
 role: PhD Candidate
 avatar_filename: avatar.jpg
 bio: My research interests include multi-messanger astronomy, RF electronics and
-  communication and applied statistics.er.
+  communication and applied statistics.
 interests:
   - Radio Astronomy
   - Astrophysical Transients
