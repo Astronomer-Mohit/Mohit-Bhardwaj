@@ -25,8 +25,8 @@ organizations:
     url: https://www.cmu.edu/physics/
 education:
   courses:
-    - course: McWilliam fellow
-      institution: carnegie Mellon University
+    - course: McWilliam postdoctoral fellow
+      institution: Carnegie Mellon University
       year: 
     - course: PhD in Physics
       institution: McGill University
