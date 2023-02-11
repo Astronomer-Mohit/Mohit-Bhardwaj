@@ -1,5 +1,5 @@
 ---
-role: McWilliams postdoctoral fellow
+role: McWilliams Fellow
 avatar_filename: avatar.jpg
 bio: My research interests include multi-messanger astronomy, RF electronics and
   communication and applied statistics.
