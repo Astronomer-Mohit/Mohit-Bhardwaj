@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mohit.bhardwaj@mcgill.ca"
+email = "mohitb@andrew.cmu.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Ernest Rutherford Physics Building, 3600 Rue University", city = "Montreal", region = "QC", postcode = "H3A 2T8", country = "Canada", country_code = "CA"}
+address = {street = "Department of Physics, Wean Hall, Carnegie Mellon University, 5000 Forbes Ave", city = "Pittsburgh", region = "PA", postcode = "15213", country = "USA", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.5077", longitude = "-73.5785"}
+coordinates = {latitude = "40.44281", longitude = "-79.94523"}
 
 # Directions for visitors to locate you.
-directions = "Enter Rutherford Physics Building and take the stairs/lift to Office 422 on Floor 4"
+directions = "Office #8301 on Floor 8 of the Wean Hall"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -118,6 +118,7 @@ contact_links = [
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"}
   ]
+
 
 ############################
 ## Social
