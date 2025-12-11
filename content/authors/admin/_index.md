@@ -1,16 +1,16 @@
 ---
-role: McWilliams Fellow
+role: Assistant Professor
 avatar_filename: avatar.jpg
-bio: My research interests include multi-messanger astronomy, RF electronics and
-  communication and applied statistics.
+bio: My research focuses on fast radio bursts and other astrophysical transients, compact objects, radio astronomy instrumentation, and astrostatistics.
 interests:
   - Fast Radio Bursts
-  - Radio Astronomy
   - Astrophysical Transients
+  - Radio Astronomy Instrumentation
+  - Astrostatistics
 social:
   - icon: envelope
     icon_pack: fas
-    link: https://www.cmu.edu/cosmology/people/index.html
+    link: https://iitk.ac.in/space/faculty
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=T7u0EccAAAAJ&hl=en
@@ -21,16 +21,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mohit-bhardwaj-747154a0/
 organizations:
-  - name: Carnegie Mellon University
-    url: https://www.cmu.edu/physics/
+  - name: Indian Institute of Technology Kanpur
+    url: https://iitk.ac.in/
 education:
   courses:
+    - course: Assistant Professor
+      institution: Indian Institute of Technology Kanpur
+      year: September 2025 - current
     - course: McWilliam postdoctoral fellow
       institution: Carnegie Mellon University
-      year: 
+      year: 2022-2025
     - course: PhD in Physics
       institution: McGill University
-      year: "2022"
+      year: "2023"
     - course: M.Sc (Hons.) Physics
       institution: " Birla Institute of Technology and Science, Pilani"
       year: 2017
@@ -40,9 +43,9 @@ education:
 superuser: true
 highlight_name: false
 title: Mohit Bhardwaj
-email: mohitb@andrew.cmu.edu
+email: mohitb@iitk.ac.in
 ---
-Mohit Bhardwaj is a McWilliams postdoctoral fellow in the Department of Physics, Carnegie Mellon University. His research interests include multi-messenger astronomy, RF electronics and communication, and applied statistics. He is a member of the [Canadian Hydrogen Intensity Mapping Experiment (CHIME)](https://chime-experiment.ca/en) where he works on newly discovered astrophysical mystery, [Fast Radio Bursts (FRBs)](https://en.wikipedia.org/wiki/Fast_radio_burst).  Within the CHIME/FRB collaboration, he is leading the multi-wavelength follow-up and host association of nearby FRBs. Please read his article below on why local Universe FRBs are awesome!
+I am an Assistant Professor in the Department of Physics at IIT Kanpur, where I study fast radio bursts (FRBs), compact objects, and other astrophysical transients. My work combines radio observations, multi-wavelength follow-up, and statistical inference to understand how these extreme phenomena originate and how they can be used to probe their surrounding environments. At IIT Kanpur, I have founded the STARBEAMS group (Stellar Transient Analysis and Radio Burst Exploration And Mapping Squad), which brings together students interested in the physics of transient sky phenomena, radio astronomy instrumentation, and data-driven astrophysics. I enjoy working closely with students and fostering a collaborative and supportive research environment. If you are a prospective student or researcher interested in transient astrophysics, radio astronomy, or astrostatistics, I would be happy to connect and discuss opportunities in my group.
 
 {{< icon name="download" pack="fas" >}} Download my resumé.
 
