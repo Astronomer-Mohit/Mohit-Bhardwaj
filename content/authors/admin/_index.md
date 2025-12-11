@@ -1,6 +1,6 @@
 ---
 role: Assistant Professor
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: My research focuses on fast radio bursts and other astrophysical transients, compact objects, radio astronomy instrumentation, and astrostatistics.
 interests:
   - Fast Radio Bursts
