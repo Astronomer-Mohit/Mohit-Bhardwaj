@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "work.mohitbhardwaj@gmail.com"
+email = "mohitb@giitk.ac.in"
 phone = "+91-512-259-2641"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Space, Planetary & Astronomical Sciences & Engineering (SPASE), Indian Institute of Technology Kanpur, Western Extension Lab", city = "Kanpur", region = "UP", postcode = "208016", country = "India", country_code = "India"}
+address = {street = "Department of Space, Planetary & Astronomical Sciences & Engineering (SPASE), Indian Institute of Technology Kanpur", city = "Kanpur", region = "UP", postcode = "208016", country = "India", country_code = "India"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
