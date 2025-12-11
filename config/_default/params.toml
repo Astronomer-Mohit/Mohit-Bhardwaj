@@ -88,19 +88,19 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mohitb@andrew.cmu.edu"
-phone = ""
+email = "work.mohitbhardwaj@gmail.com"
+phone = "+91-512-259-2641"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Physics, Wean Hall, Carnegie Mellon University, 5000 Forbes Ave", city = "Pittsburgh", region = "PA", postcode = "15213", country = "USA", country_code = "US"}
+address = {street = "Department of Space, Planetary & Astronomical Sciences & Engineering (SPASE), Indian Institute of Technology Kanpur, Western Extension Lab", city = "Kanpur", region = "UP", postcode = "208016", country = "India", country_code = "India"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.44281", longitude = "-79.94523"}
+coordinates = {latitude = "26.51305580", longitude = "80.2317092"}
 
 # Directions for visitors to locate you.
-directions = "Office #8301 on Floor 8 of the Wean Hall"
+directions = "Office #202-C, on the first floor of Western Lab Extension"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
