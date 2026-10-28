@@ -1,0 +1,7 @@
+/* Keep the research section heading readable at desktop and mobile widths. */
+#projects .section-heading h1 {
+  font-size: clamp(1.65rem, 3vw, 2.4rem);
+  word-break: normal;
+  overflow-wrap: normal;
+  hyphens: none;
+}
