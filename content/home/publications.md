@@ -2,8 +2,8 @@
 widget: pages
 widget_id: Publications
 weight: 90
-title: Publications
-subtitle: ""
+title: Selected Publications
+subtitle: "Recent work on fast radio bursts, radio transients, and the tools used to study them."
 content:
   page_type: publication
   count: 5
@@ -19,4 +19,4 @@ headless: true
 design:
   view: 4
 ---
-For the full publication list please visit my **[Google Scholar page](https://scholar.google.com/citations?user=T7u0EccAAAAJ&hl=en)**.
+Browse selected publications below. For the complete and up-to-date publication record, visit my **[Google Scholar profile](https://scholar.google.com/citations?user=T7u0EccAAAAJ&hl=en)**.
