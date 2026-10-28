@@ -45,7 +45,13 @@ highlight_name: false
 title: Mohit Bhardwaj
 email: mohitb@iitk.ac.in
 ---
-I am an Assistant Professor in the Department of Physics at IIT Kanpur, where I study fast radio bursts (FRBs), compact objects, and other astrophysical transients. My work combines radio observations, multi-wavelength follow-up, and statistical inference to understand how these extreme phenomena originate and how they can be used to probe their surrounding environments. At IIT Kanpur, I have founded the STARBEAMS group (Stellar Transient Analysis and Radio Burst Exploration And Mapping Squad), which brings together students interested in the physics of transient sky phenomena, radio astronomy instrumentation, and data-driven astrophysics. I enjoy working closely with students and fostering a collaborative and supportive research environment. If you are a prospective student or researcher interested in transient astrophysics, radio astronomy, or astrostatistics, I would be happy to connect and discuss opportunities in my group.
+I am an astrophysicist and Assistant Professor in the Department of Space, Planetary & Astronomical Sciences & Engineering (SPASE) at the Indian Institute of Technology Kanpur, where I investigate some of the most energetic and enigmatic phenomena in the radio Universe.
+
+My research focuses on fast radio bursts (FRBs), compact objects, and astrophysical radio transients—using these extraordinary signals to probe the environments of their sources, uncover the nature of their progenitors, and trace the distribution of matter across the cosmos. By combining radio observations, interferometric techniques, multi-wavelength studies, and statistical modelling, I aim to connect transient phenomena to their host galaxies and the broader cosmic web.
+
+Alongside observational astrophysics, I am passionate about developing the next generation of radio astronomy instrumentation. At IIT Kanpur, I am building a research programme that brings together time-domain astronomy, radio interferometry, and instrumentation to explore the dynamic radio sky. This includes GARUDA (Gigahertz Array for Radio Universe Discovery & Analysis), an initiative aimed at opening new opportunities for wide-field radio transient discovery.
+
+I am always interested in scientific collaborations and in working with motivated students and researchers who want to tackle challenging questions in astrophysics, develop innovative observational techniques, and push the boundaries of what we can discover about the Universe.
 
 {{< icon name="download" pack="fas" >}} Download my resumé.
 
